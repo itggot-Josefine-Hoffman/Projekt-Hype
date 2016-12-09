@@ -1,0 +1,130 @@
+body{
+  background-color: #404040;
+  color: black;
+}
+a {
+  font-size: 20px;
+}
+a:hover {
+  color: aqua;
+  background-color: transparent;
+}
+hela.{
+  display:flex;
+  flex-direction: column;
+  margin: 10px;
+}
+.header{
+  display: flex;
+  flex-direction: row;
+}
+.aboutheader{
+  margin-bottom: 100px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.socialmedia{
+  display: flex;
+  flex-direction: row;
+}
+.huvud{
+background-color: #404040;
+color: black;
+margin-bottom: 20px;
+display: flex;
+justify-content: center;
+flex-grow: 5;
+border-style: solid;
+border-width: medium;
+border-color: #404040;
+height: 390px
+}
+.bild{
+  display: flex;
+  flex-grow: 1;
+  justify-content: center;
+  margin-bottom: 10px;
+}
+.greylogo{
+  display: flex;
+  justify-content: flex-start;
+}
+.product{
+  display: flex;
+  flex-grow: 40;
+  font-style: italic;
+}
+nav{
+background-color: white;
+display: flex;
+flex-grow: 2;
+justify-content: space-around;
+border-style: solid;
+border-color: white;
+border-width: medium;
+color: black;
+}
+
+.dubbel{
+  display: flex;
+  flex-direction: row;
+  align-content: space-between;
+}
+.låda1{
+  margin-right: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  height: 400px;
+  background-color: white;
+  border-style: solid;
+  border-color: white;
+  border-width: medium;
+  display: flex;
+  flex-direction: column;
+  flex-grow: 2
+}
+.låda2{
+  margin-left: 10px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  height: 400px;
+  background-color: white;
+  border-style: solid;
+  border-color: white;
+  border-width: medium;
+  display: flex;
+  flex-direction: column;
+  flex-grow: 4
+}
+h1 {
+  display: flex;
+justify-content: center;
+}
+.nedre {
+  background-color: white;
+  height: 50px;
+  border-style: solid;
+  border-color: white;
+  border-width: medium;
+  display: flex;
+  flex-grow: 2;
+  justify-content: space-around;
+}
+
+p{
+  color: black;
+ display: flex;
+ justify-content: space-between;
+}
+a {
+  color: black;
+}
+.text{
+  margin: 10px;
+  font-size: 20px;
+}
+.ned {
+  display: flex;
+  font-size: 20px;
+}
